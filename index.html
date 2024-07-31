@@ -373,48 +373,74 @@ src="https://www.facebook.com/tr?id=1336681653692831&ev=PageView&noscript=1"
 
 
 
-
-				<!DOCTYPE html>
-				<html lang="uk">
-				<head>
-					<meta charset="UTF-8">
-					<meta name="viewport" content="width=device-width, initial-scale=1.0">
-					<title>Форма замовлення</title>
-					<style>
-						.field {
-							display: block;
-							margin-bottom: 20px; /* Зменшив відступ для кращого вигляду */
-							padding: 10px;
-							width: 100%;
-							box-sizing: border-box;
-						}
+	<style>
+					body {
+						font-family: Arial, sans-serif; /* Основний шрифт для сторінки */
+						margin: 0;
+						padding: 0;
+						background-color: #f4f4f4; /* Світло-сірий фон для кращого контрасту */
+					}
+			
+					section {
+						max-width: 600px; /* Максимальна ширина форми */
+						margin: 20px auto; /* Центрування форми */
+						padding: 20px;
+						background-color: white; /* Білий фон для форми */
+						border-radius: 10px; /* Закруглені кути для форми */
+						box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Легка тінь для форми */
+					}
+			
+					.field {
+						display: block;
+						margin-bottom: 20px;
+						padding: 10px;
+						width: 100%;
+						box-sizing: border-box;
+						border: 1px solid #ddd; /* Легка обводка для полів */
+						border-radius: 5px; /* Закруглені кути для полів */
+						font-size: 16px; /* Розмір шрифту для полів */
+					}
+			
+					.button-container {
+						text-align: center; /* Центрує кнопку всередині контейнера */
+					}
+			
+					.button {
+						display: inline-flex; /* Використовуємо flex для вертикального вирівнювання */
+						align-items: center; /* Вертикальне вирівнювання тексту */
+						justify-content: center; /* Центрування тексту горизонтально */
+						padding: 15px 20px; /* Збільшене внутрішнє відступи */
+						background-color: #FF3131; /* Червоний фон кнопки */
+						color: white; /* Білий текст кнопки */
+						border: none;
+						cursor: pointer;
+						font-size: 18px; /* Збільшений розмір шрифту для кнопки */
+						text-transform: uppercase; /* Текст великими літерами */
+						font-weight: bold; /* Жирний шрифт для кнопки */
+						border-radius: 5px; /* Закруглені кути для кнопки */
+						transition: background-color 0.3s ease, transform 0.2s ease; /* Плавна зміна кольору та ефект натискання */
+						box-sizing: border-box; /* Включає padding та border в ширину кнопки */
+					}
+			
+					.button:hover {
+						background-color: #e60000; /* Темніший колір при наведенні */
+						transform: scale(1.05); /* Легке збільшення кнопки при наведенні */
+					}
+			
+					.button:active {
+						transform: scale(0.98); /* Легке зменшення кнопки при натисканні */
+					}
+				</style>
+			
 				
-						.button {
-							padding: 15px 15px;
-							background-color: #FF3131;
-							color: white;
-							border: none;
-							cursor: pointer;
-							font-size: 20px; /* Збільшив розмір шрифту */
-							text-transform: uppercase; /* Текст великими літерами */
-							font-weight: bold; /* Жирний шрифт для кнопки */
-							border-radius: 15px; /* Закруглені кути для кнопки */
-							transition: background-color 0.3s ease; /* Плавна зміна кольору фону */
-						}
-				
-						.button:hover {
-							background-color: #e60000; /* Темніший колір при наведенні */
-						}
-					</style>
-				</head>
-				<body>
-					<section>
-						<form id="order_form" class="order_form">
-							<input class="field" type="text" name="name" placeholder="Ваше ім'я" required>
-							<input class="field" type="tel" name="phone" minlength="15" maxlength="15" placeholder="Ваш телефон" required>
+					<form id="order_form" class="order_form">
+						<input class="field" type="text" name="name" placeholder="Ваше ім'я" required>
+						<input class="field" type="tel" name="phone" minlength="15" maxlength="15" placeholder="Ваш телефон" required>
+						<div class="button-container">
 							<button class="button" type="submit">Замовити зі знижкою</button>
-						</form>
-    </section>
+						</div>
+					</form>
+						
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
