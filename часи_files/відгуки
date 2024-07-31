@@ -1,0 +1,135 @@
+	<section class="reviews4_section">
+				<h2 class="title">Відгуки покупців</h2>
+				<div class="reviews_stats_block">
+					<p><b>97%</b> покупців рекомендують цей товар</p>
+					<div class="line"></div>
+				</div>
+
+				<div class="reviews_list4 owl-carousel owl-loaded">
+					
+					
+					
+				<div class="owl-stage-outer owl-height" style="height: 321px;"><div class="owl-stage" style="transform: translate3d(-880px, 0px, 0px); transition: all 0s ease 0s; width: 3080px;"><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev2.png">
+								<div class="text">
+									<div class="a-name">Григорій</div>
+									<div class="stars"></div>
+									<div class="a-date">1 день тому</div>
+								</div>
+
+							</div>
+							<p>
+								Компактний дизайн, потужна робота і швидкий збір/розбір. Впевнений, що вона буде корисною як для
+								особистого
+								використання, так і для професійного використання. Рекомендую всім, хто шукає якісну та ефективну мийку
+								високого тиску.
+							</p>
+						</div>
+					</div></div><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev3.png">
+								<div class="text">
+									<div class="a-name">Віталій</div>
+									<div class="stars"></div>
+									<div class="a-date">тиждень тому</div>
+								</div>
+
+							</div>
+							<p>
+								Мийка високого тиску Lehmann 2000Вт - просто фантастика! З ней відчутно ефективніше видаляти забруднення
+								з будь-якої
+								поверхні.
+							</p>
+						</div>
+					</div></div><div class="owl-item active" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev1.png">
+								<div class="text">
+									<div class="a-name">Олексій</div>
+									<div class="stars"></div>
+									<div class="a-date">2 години тому</div>
+								</div>
+
+							</div>
+							<p>
+								Не часто пишу відгуки, але ця мийка високого тиску варта уваги. Легка у використанні, має надійну
+								конструкцію і працює
+								бездоганно. Залишив усі наші плитки та стіни блискучими! Дуже задоволений покупкою.
+							</p>
+						</div>
+					</div></div><div class="owl-item" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev2.png">
+								<div class="text">
+									<div class="a-name">Григорій</div>
+									<div class="stars"></div>
+									<div class="a-date">1 день тому</div>
+								</div>
+
+							</div>
+							<p>
+								Компактний дизайн, потужна робота і швидкий збір/розбір. Впевнений, що вона буде корисною як для
+								особистого
+								використання, так і для професійного використання. Рекомендую всім, хто шукає якісну та ефективну мийку
+								високого тиску.
+							</p>
+						</div>
+					</div></div><div class="owl-item" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev3.png">
+								<div class="text">
+									<div class="a-name">Віталій</div>
+									<div class="stars"></div>
+									<div class="a-date">тиждень тому</div>
+								</div>
+
+							</div>
+							<p>
+								Мийка високого тиску Lehmann 2000Вт - просто фантастика! З ней відчутно ефективніше видаляти забруднення
+								з будь-якої
+								поверхні.
+							</p>
+						</div>
+					</div></div><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev1.png">
+								<div class="text">
+									<div class="a-name">Олексій</div>
+									<div class="stars"></div>
+									<div class="a-date">2 години тому</div>
+								</div>
+
+							</div>
+							<p>
+								Не часто пишу відгуки, але ця мийка високого тиску варта уваги. Легка у використанні, має надійну
+								конструкцію і працює
+								бездоганно. Залишив усі наші плитки та стіни блискучими! Дуже задоволений покупкою.
+							</p>
+						</div>
+					</div></div><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="./часи_files/rev2.png">
+								<div class="text">
+									<div class="a-name">Григорій</div>
+									<div class="stars"></div>
+									<div class="a-date">1 день тому</div>
+								</div>
+
+							</div>
+							<p>
+								Компактний дизайн, потужна робота і швидкий збір/розбір. Впевнений, що вона буде корисною як для
+								особистого
+								використання, так і для професійного використання. Рекомендую всім, хто шукає якісну та ефективну мийку
+								високого тиску.
+							</p>
+						</div>
+					</div></div></div></div><div class="owl-nav"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+			</section>
